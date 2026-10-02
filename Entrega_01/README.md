@@ -1,2 +1,0 @@
-# Introducción:
-### Este proyecto trata sobre cómo el hábito lector en Chile esta directamente arraigado a la economía del consumidor. Diferentes valores dependiendo del género, la cantidad, la novedad, etc., muchas variables, en este trabajo se verá como los clásicos y sus ediciones tienen valores distintos en el mercado dependiendo de estas variables y su accesibilidad a la hora de comenzar o mantener un hábito lector. 
